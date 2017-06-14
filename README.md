@@ -1,1 +1,2 @@
-Das jump and Run Spiel geplant für die THM - Friedberg im Studiengang Medieninformatik Bachelor.
+﻿Das jump and Run Spiel geplant für die THM - Friedberg im Studiengang Medieninformatik Bachelor.
+Bitte lest euch [Wichtige Infos](https://github.com/SWT-SS17/Jump-And-Run/Ablauf-und-Vorgehen/WichtigeInfos.doc) durch.
