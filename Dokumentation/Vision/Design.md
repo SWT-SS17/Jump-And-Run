@@ -1,0 +1,4 @@
+# Vision Design
+_Das Design enthält kurz und knapp wie wir Inhaltlich unsere Anforderungen erfüllen wollen, sowie alles weitere was über den Inhalt im Vorhinein geplant wird. Wenn es sich nicht lohnt dieses Dokument zu erstellen, lasst es weg._
+* Um den Anforderungen von Herrn Edelmann zu genügen wäre es gut wenn wir uns an seine Beispiel Visionsdokumente halten. In seinen Visionsdokumenten hat er neben der Kurzbeschreibung des Programms auch, die Stakeholder, die Wichtigsten Use Cases und einen Überblick gegeben in welcher Umgebung das Programm läuft.
+* Wir wollen ein Jump and Run spiel machen sind jedoch davon abgedriftet und wollen jetzt eine Art Flappybird machen, bei dem es aber andere Hindernisse gibt. Zudem wollen wir eventuell eine Android Version erstellen, um diese eventuell im App/Play Store zu verteilen. Weiterhin wollen wir Geld über Werbung verdienen und eventuell auch Items einbauen.
