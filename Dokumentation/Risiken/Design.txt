@@ -1,0 +1,4 @@
+Die Risiken sind die Summe der Risiken, die sich durch die Umstände der Entwicklung dieses Programms ergeben.
+In diesem Fall sind es die Risiken die durch den Umstand entstehen, dass wir ein Spiel erstellen wollen
+, welches eine hohe direkte Konkurenz aufweist
+, welches von Menschen programmiert wird welche so ein Projekt noch nicht versucht haben.
