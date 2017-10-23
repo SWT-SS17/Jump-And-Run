@@ -1,0 +1,49 @@
+Spielmodi
+----------
+
+Classic Modus:
+
+Der Spieler spielt solange, bis man stirbt. Die Anzahl überwundenen Hindernissen wird schließlich als Highscore gespeichert. Items sind nicht aktiviert. Tiere frei auswählbar. 
+Level frei auswählbar und unendlich lang.
+
+----------
+
+Survival Modus:
+
+Spieler spielt solange, bis die Anzahl leben verbraucht worden sind. Die Anzahl überwundenen Hindernissen wird schließlich als Highscore gespeichert. Items sind aktiviert. 
+Tier frei auswählbar. Level frei auswählbar und unendlich lang.
+
+----------
+
+Renn Modus:
+
+Zeitrennen. Spieler versucht das Level so schnell wie möglich abzuschließen. Items erlaubt. Tiere frei auswählbar. Unendlich Leben. Benötigte Zeit wird als Highscore gespeichert.
+Level frei wählbar und endlich.
+
+----------
+
+Story Modus:
+
+Mehrere Level müssen absolviert werden. Das Spiel ist vorbei, wenn der Spieler keine Leben mehr zur Verfügung hat. Tier frei auswählbar. Items aktiviert. Die Anzahl überwundenen 
+Hindernissen wird schließlich als Highscore gespeichert.
+
+
+----------
+
+Multiplayer Modus (Arena Modus und Renn Modus):
+
+Arena Modus und Renn Modus werden mit mehreren Personen gespielt. Tiere begrenzt wählbar (Spieler müssen sich Tiere einer gemeinsamen aussuchen)
+
+		Arena Modus:
+
+		Spieler vs Spieler Modus in einer abgesperrten Arena. Spieler versuchen mit Items die
+		anderen Spieler zu treffen und ihnen ein Leben abzuziehen. Wer keine Leben mehr hat verliert.
+
+
+		Renn Modus:
+		
+		Spieler versuchen ein Level so schnell wie möglich ein Level zu beenden. Wer am Ende zuerst das Level 
+		abschließt, gewinnt. Items sind erlaubt. Unendlich Leben. Benötigte Zeit wird als Highscore gespeichert.
+		Level frei wählbar und endlich lang.
+
+
